@@ -66,6 +66,7 @@
   - Fetches all posts, pages, tags, authors via Ghost Content API
   - Rewrites internal links and asset URLs for static hosting
   - RSS feed, sitemap.xml, robots.txt included
+  - limited generation 500 routes, 3 times in 24h
   - Download as ZIP — deploy anywhere
 
   ### Pro
