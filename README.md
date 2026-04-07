@@ -1,102 +1,122 @@
 <div align="center">                                                                                                                                                                        
-   
+                                                                                                                                                                                              
   # SnapStatic — Build Your Website in Minutes                                                                                                                                                
-                                                                                                                                                                                            
+                                                                                                                                                                                              
   ### No code. No hosting headaches. Just your site, live.                                                                                                                                    
-   
+                                                                                                                                                                                              
   **Pick a template, add your content, publish. That's it.**                                                                                                                                  
-  Your own website with payments, contact forms, and a free subdomain.                                                                                                                      
+  Your own website with payments, contact forms, and a free subdomain.
                                                                                                                                                                                               
   [![Get Started Free](https://img.shields.io/badge/Get%20Started-Free-6366f1?style=for-the-badge)](https://studio.snapstatic.io)                                                             
-  [![See Pricing](https://img.shields.io/badge/Pricing-$5%2Fmo-10b981?style=for-the-badge)](https://snapstatic.io/#pricing)                                                                   
+  [![See Pricing](https://img.shields.io/badge/Pricing-from%20$7%2Fmo-10b981?style=for-the-badge)](https://snapstatic.io/#pricing)                                                            
                                                                                                                                                                                               
-  </div>                                                                                                                                                                                    
+  </div>                   
                                                                                                                                                                                               
-  ---                                                                                                                                                                                       
-                                         
-  ## What is SnapStatic?
-
+  ---                                                                                                                                                                                         
+   
+  ## What is SnapStatic?                                                                                                                                                                      
+                           
   SnapStatic is a website builder for people who want a professional site without learning to code. Pick a template, customize colors and fonts, write your content, and publish — your site  
   is live in minutes.
                                                                                                                                                                                               
-  Built for small businesses, online sellers, bloggers, and anyone who needs a simple, fast website.                                                                                          
-                                         
+  Built for small businesses, online sellers, bloggers, creators selling paid content, and anyone who needs a simple, fast website.                                                           
+   
   → **[Start building at studio.snapstatic.io](https://studio.snapstatic.io)**                                                                                                                
-                                                                                                                                                                                            
+                           
   ---                                                                                                                                                                                         
-                                                                                                                                                                                            
-  ## Who is it for?                      
+                           
+  ## Who is it for?
 
   - Cafes, restaurants, salons, and local businesses                                                                                                                                          
-  - Online sellers moving off Shopee, Lazada, or marketplace platforms
+  - Online sellers moving off marketplace platforms
   - Bloggers and content creators                                                                                                                                                             
-  - Real estate agents listing properties                                                                                                                                                   
-  - Anyone selling products with GCash, GrabPay, bank transfer, or QR codes                                                                                                                   
+  - Creators selling paid posts or members-only content
+  - Real estate agents listing properties                                                                                                                                                     
+  - Anyone selling products with Stripe, PayPal, or QR codes                                                                                                                                  
                                                                                                                                                                                               
   ---                                                                                                                                                                                         
                                                                                                                                                                                               
-  ## What You Get                                                                                                                                                                           
-                                         
+  ## What You Get          
+
   | Feature | Details |
   |---|---|
   | **Templates** | Blog, business, storefront, real estate — ready to customize |
   | **Visual editor** | Change colors, fonts, layout. Add images, videos, buttons. No code. |                                                                                                 
   | **One-click publish** | Your site goes live instantly on yourname.snapstatic.io |                                                                                                         
-  | **Custom domain** | Connect your own domain (registration not included) |                                                                                                                 
-  | **Payment buttons** | GCash, GrabPay, bank transfer, QR codes, PayPal |                                                                                                                   
-  | **Contact form** | Customers can reach you directly, spam protection included |                                                                                                           
-  | **Email subscribers** | Collect emails from visitors |                                                                                                                                    
-  | **SEO** | Show up on Google with built-in search settings |                                                                                                                               
-  | **Analytics** | See how many people visit your site |                                                                                                                                     
+  | **Custom domain** | Connect your own domain (Pro plan) |                                                                                                                                  
+  | **Payment buttons** | Stripe, PayPal, QR codes |                                                                                                                                          
+  | **Paid content** | Lock posts behind a paywall with magic-link access (Pro plan) |                                                                                                        
+  | **Contact & subscribe forms** | Customers reach you directly, spam protection included |                                                                                                  
+  | **SEO & RSS** | Show up on Google, syndicate via RSS |                                                                                                                                    
+  | **Analytics integration** | See how many people visit your site |                                                                                                                         
   | **Scheduled posts** | Write now, publish later |                                                                                                                                          
+  | **Image hosting** | 500 MB media storage included |                                                                                                                                       
+  | **Data export** | Full export of your content, anytime |                                                                                                                                  
   | **Fast everywhere** | Your site loads fast for visitors anywhere in the world |                                                                                                           
   | **Always online** | No server to maintain, no downtime |                                                                                                                                  
-                                         
+                                                                                                                                                                                              
   ---                                                                                                                                                                                         
-                                                                                                                                                                                            
-  ## How It Works                        
+                                                                                                                                                                                              
+  ## How It Works          
 
-  1. Pick a template    →    2. Customize    →    3. Publish                                                                                                                                  
-  Blog, business,          Colors, fonts,       One click.
-  store, real estate        content, images      Site is live.                                                                                                                                
+  1. **Pick a template** → Blog, business, store, real estate                                                                                                                                 
+  2. **Customize** → Colors, fonts, content, images
+  3. **Publish** → One click. Site is live.                                                                                                                                                   
                                                                                                                                                                                               
   **No installs. No setup. Works entirely in your browser.**                                                                                                                                  
                                                                                                                                                                                               
-  ---                                                                                                                                                                                       
-                                                                                                                                                                                              
-  ## Pricing                                                                                                                                                                                
-                                         
+  ---                                                                                                                                                                                         
+                           
+  ## Pricing
+
   **The editor is free to try. Pay only when you're ready to go live.**                                                                                                                       
    
-  | | |                                                                                                                                                                                       
-  |---|---|                                                                                                                                                                                 
-  | **Monthly** | $5/mo per site |       
-  | **Yearly** | $49/yr per site (save 18%) |                                                                                                                                                 
+  ### Starter — $7/mo or $69/yr (save 18%)                                                                                                                                                    
+  *per site · cancel anytime*
                                                                                                                                                                                               
-  Every published site includes: custom domain support, payment buttons, contact forms, email collection, SEO, analytics, image hosting, and scheduled publishing.                            
+  - Live site on `snapstatic.io` subdomain                                                                                                                                                    
+  - 500 posts, 50 pages
+  - 500 MB media storage                                                                                                                                                                      
+  - Contact & subscribe forms (50/mo)
+  - Payment buttons (Stripe, PayPal, QR)                                                                                                                                                      
+  - Analytics integration                                                                                                                                                                     
+  - SEO & RSS feed                                                                                                                                                                            
+  - Scheduled publishing                                                                                                                                                                      
+  - Full data export                                                                                                                                                                          
+   
+  ### Pro — $14/mo or $139/yr (save 17%)                                                                                                                                                      
+  *per site · cancel anytime*
+
+  **Everything in Starter, plus:**                                                                                                                                                            
+  - Custom domain support
+  - Content gating & paid posts                                                                                                                                                               
+  - Magic link authentication                                                                                                                                                                 
+  - Remove SnapStatic badge
+  - 1,000 form submissions/mo                                                                                                                                                                 
+  - Priority support       
                                                                                                                                                                                               
   → **[See full pricing at snapstatic.io](https://snapstatic.io/#pricing)**                                                                                                                   
-                                                                                                                                                                                            
+   
   ---                                                                                                                                                                                         
-                                                                                                                                                                                            
-  ## Get Started                         
+                           
+  ## Get Started
 
   1. Go to **[studio.snapstatic.io](https://studio.snapstatic.io)**                                                                                                                           
   2. Pick a template that fits your business
   3. Customize and add your content                                                                                                                                                           
-  4. Publish when you're ready                                                                                                                                                              
+  4. Publish when you're ready
                                                                                                                                                                                               
   No credit card needed. Build and preview your site first.                                                                                                                                   
-                                                                                                                                                                                              
+   
   ---                                                                                                                                                                                         
-                                                                                                                                                                                            
-  <div align="center">                   
+                           
+  <div align="center">
 
-  **[snapstatic.io](https://snapstatic.io)** &nbsp;·&nbsp;
+  **[snapstatic.io](https://snapstatic.io)** &nbsp;·&nbsp;                                                                                                                                    
   **[Studio](https://studio.snapstatic.io)** &nbsp;·&nbsp;
   **[Privacy](https://snapstatic.io/privacy)** &nbsp;·&nbsp;                                                                                                                                  
-  **[Terms](https://snapstatic.io/terms)**
+  **[Terms](https://snapstatic.io/terms)**                                                                                                                                                    
                                                                                                                                                                                               
-  *Your website, live in minutes.*                                                                                                                                                          
-                                                                                                                                                                                              
+  *Your website, live in minutes.*                                                                                                                                                            
+                           
   </div>
